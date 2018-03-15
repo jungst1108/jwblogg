@@ -1,0 +1,11 @@
+---
+title: 1st test post
+author: Jeongwoon Jeong
+date: '2018-03-15'
+slug: 1st-test-post
+categories:
+  - R
+tags:
+  - plot
+---
+
