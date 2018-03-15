@@ -1,7 +1,7 @@
 baseURL = "https://example.com/"
 languageCode = "en-us"
 title = "Eddie Webb"
-theme = "hugo-resume"
+theme = "resume"
 
 [params]
     firstName = "Eddie"
